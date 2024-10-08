@@ -1,0 +1,37 @@
+/**
+ * Creates and opens the output file for writing.
+ * 
+ * This function creates the specified file if it doesn't already exist, and opens it
+ * in write-only mode. If the file cannot be created or opened, it prints an error message 
+ * and terminates the program.
+ * 
+ * @param const char *file_name - The name or path of the file to create and open for writing.
+ * 
+ * @return int - The file descriptor of the opened output file.
+ */
+int get_output_file(const char *file_name);
+/**
+ * Creates and opens the output file for writing.
+ * 
+ * This function creates the specified file if it doesn't already exist, and opens it
+ * in write-only mode. If the file cannot be created or opened, it prints an error message 
+ * and terminates the program.
+ * 
+ * @param const char *file_name - The name or path of the file to create and open for writing.
+ * 
+ * @return int - The file descriptor of the opened output file.
+ */
+int get_output_file(const char *file_name);
+/**
+ * Creates and opens the output file for writing.
+ * 
+ * This function creates the specified file if it doesn't already exist, and opens it
+ * in write-only mode. If the file cannot be created or opened, it prints an error message 
+ * and terminates the program.
+ * 
+ * @param const char *file_name - The name or path of the file to create and open for writing.
+ * 
+ * @return int - The file descriptor of the opened output file.
+ */
+int get_output_file(const char *file_name);
+thisshfsf
